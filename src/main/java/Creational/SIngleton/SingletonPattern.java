@@ -1,4 +1,4 @@
-package SIngleton;
+package Creational.SIngleton;
 // Singleton patter implementation
 // Make Constructor private
 // Declare an Instance variable and declare static.

@@ -1,4 +1,4 @@
-package SIngleton;
+package Creational.SIngleton;
 
 // How to protect singleton pattern breaking with cloneable
 public class SingletonNonCloneable implements Cloneable{

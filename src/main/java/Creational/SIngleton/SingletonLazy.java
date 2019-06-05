@@ -1,4 +1,4 @@
-package SIngleton;
+package Creational.SIngleton;
 
 // Pitfalls : this implementation is lazy loading.
 // This can be broken in multithreaded environment as access to getInstance method is not synchronized

@@ -1,6 +1,6 @@
-import SIngleton.SingletonEnum;
-import SIngleton.SingletonPattern;
-import SIngleton.SingletonSerialization;
+import Creational.SIngleton.SingletonEnum;
+import Creational.SIngleton.SingletonPattern;
+import Creational.SIngleton.SingletonSerialization;
 
 import java.io.*;
 

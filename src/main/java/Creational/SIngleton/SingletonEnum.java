@@ -1,4 +1,4 @@
-package SIngleton;
+package Creational.SIngleton;
 
 
 // SINGLETON pattern implementation with Enum

@@ -1,4 +1,4 @@
-package SIngleton;
+package Creational.SIngleton;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;
