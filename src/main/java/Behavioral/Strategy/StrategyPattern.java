@@ -5,7 +5,7 @@ package Behavioral.Strategy;
  *
  * Use it when you want to eliminate conditional statements.
  *
- * Client is aware of the startegy in this patter.
+ * Client is aware of the startegy in this pattern.
  *
  * Example: theres an abstarct ValidationStrategy, which CreditCard is aware of
  * & used composition to call it's valid method to validate creditcard.
